@@ -3,3 +3,6 @@ master에서 작성된 m1문서
 mmmmm1
 mmmmm2
 mmmmm3
+길동이가 작성합니다.
+행복한 시간입니다.
+git은 재밌어우~
